@@ -1,6 +1,6 @@
 # Bioinformatics Algorithms in Java Script
 
-These algorithms are the supplementary online files for the book entitled <kbd>Algorithms in Bioinformatics: Theory and Implementation</kbd>. Demo applications that make direct use of these algorithms, with full GUI interactivity, can be found here: https://github.com/Gagniuc/Bioinformatics-HTML5-Implementations
+These algorithms are the supplementary online files for the book entitled <i>Algorithms in Bioinformatics: Theory and Implementation</i>. Demo applications that make direct use of these algorithms, with full GUI interactivity, can be found here: https://github.com/Gagniuc/Bioinformatics-HTML5-Implementations
 
 # References
 
